@@ -1,10 +1,10 @@
-<h2 style="text-align: center"> Hi! 👋 I'm Dax. </h2>
-<table style="text-align: center; border: none;">
+<h2 align="center" style="text-align: center"> Hi! 👋 I'm Dax. </h2>
+<table align="center" style="text-align: center; border: none;">
     <tbody style="border: none;">
         <tr style="border: none;">
-            <td style="border: none;"><img src="media/bcbst.png"></td>
-            <td style="border: none;"><img src="media/nilab.png"></td>
-            <td style="border: none;"><img src="media/utc.png"></td>
+            <td style="border: none;"><img width="70%" src="media/bcbst.png"></td>
+            <td style="border: none;"><img width="70%" src="media/nilab.png"></td>
+            <td style="border: none;"><img width="70%" src="media/utc.png"></td>
         </tr>
         <tr style="border: none;">
             <td style="border: none;">
