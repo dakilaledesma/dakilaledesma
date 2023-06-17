@@ -1,4 +1,4 @@
-<h2 align="center" style="text-align: center"> Hi! 👋 I'm Dax. </h2>
+<h3 align="center" style="text-align: center"> Hi! 👋 I'm Dax. </h3>
 <table align="center" style="text-align: center; border: none;">
     <tbody align="center" style="border: none;">
         <tr align="center" style="border: none;">
