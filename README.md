@@ -24,7 +24,14 @@
 </table>
 
 <h4 align="center" style="text-align: center"> You can stat-track my work on <a href="https://dakilaledesma.github.io/">the daxtracker.</a> (updated in realtime): </h4>
-<img src="https://dakilaledesma.github.io/public/heatmap.png">
+<table style="background-color: white; border-radius:10px;">
+    <tr>
+        <td>
+            <img src="https://dakilaledesma.github.io/public/heatmap.png">
+        </td>
+    </tr>
+</table>
+
 
 <!--
 **dakilaledesma/dakilaledesma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
