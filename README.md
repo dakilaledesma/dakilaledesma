@@ -23,7 +23,7 @@
     </tbody>
 </table>
 
-<h4 align="center" style="text-align: center"> You can stat-track my work on <a href="https://dakilaledesma.github.io/">the daxtracker.</a> (updated in realtime): </h4>
+<h4 align="center" style="text-align: center"> You can stat-track my work on the <a href="https://dakilaledesma.github.io/">daxtracker.</a> (updates in realtime): </h4>
 <img src="https://dakilaledesma.github.io/public/heatmap.png">
 
 <!--
