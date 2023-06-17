@@ -24,6 +24,7 @@
 </table>
 
 <h4 align="center" style="text-align: center"> You can stat-track my work on <a href="https://dakilaledesma.github.io/">the daxtracker.</a> (updated in realtime): </h4>
+<sup align="center">dakilaledesma.github.io</sup>
 <img src="https://dakilaledesma.github.io/public/heatmap.png">
 
 <!--
