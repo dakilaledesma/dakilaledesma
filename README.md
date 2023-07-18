@@ -16,8 +16,8 @@
                 <sup> Part-time </sup>
             </td>
             <td align="center" style="border: none;">
-                <b> Staff (Future Faculty?) </b> <br>
-                <sup> Adjunct </sup>
+                <b> Adjunct Faculty </b> <br>
+                <sup> Computer Science </sup>
             </td>
         </tr>
     </tbody>
