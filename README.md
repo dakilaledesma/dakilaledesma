@@ -2,10 +2,10 @@
 <table align="center" style="text-align: center; border: none;">
     <tbody align="center" style="border: none;">
         <tr align="center" style="border: none;">
-            <td align="center" style="border: none;"><img width="200vw" src="media/bcbst.png"></td>
-            <td align="center" style="border: none;"><img width="200vw" src="media/sp1.png"></td>
-            <td align="center" style="border: none;"><img width="200vw" src="media/nilab.png"></td>
-            <td align="center" style="border: none;"><img width="200vw" src="media/utc.png"></td>
+            <td align="center" style="border: none;"><img width="175vw" src="media/bcbst.png"></td>
+            <td align="center" style="border: none;"><img width="175vw" src="media/sp1.png"></td>
+            <td align="center" style="border: none;"><img width="175vw" src="media/nilab.png"></td>
+            <td align="center" style="border: none;"><img width="175vw" src="media/utc.png"></td>
         </tr>
         <tr align="center" style="border: none;">
             <td align="center" style="border: none;">
