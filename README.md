@@ -3,6 +3,7 @@
     <tbody align="center" style="border: none;">
         <tr align="center" style="border: none;">
             <td align="center" style="border: none;"><img width="200vw" src="media/bcbst.png"></td>
+            <td align="center" style="border: none;"><img width="200vw" src="media/sp1.png"></td>
             <td align="center" style="border: none;"><img width="200vw" src="media/nilab.png"></td>
             <td align="center" style="border: none;"><img width="200vw" src="media/utc.png"></td>
         </tr>
@@ -10,6 +11,10 @@
             <td align="center" style="border: none;">
                 <b> Associate Data Scientist </b> <br>
                 <sup> Full-time </sup>
+            </td>
+            <td align="center" style="border: none;">
+                <b> Machine Learning Engineer </b> <br>
+                <sup> Part-time/Contract </sup>
             </td>
             <td align="center" style="border: none;">
                 <b> Artificial Intelligence Researcher </b> <br>
