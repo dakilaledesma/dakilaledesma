@@ -43,8 +43,9 @@
     <img width="175" src="media/self.png"><br>
     <b>@dakilaledesma</b><br>
     <sup>Work, Instagram, and IRL-related accounts.</sup>
-      <br>
   </span>
+    <br>
+    <br>
   <span style="display: inline-block; text-align: center;">
     <img width="175" src="media/dp.png"><br>
     <b>@Invuska</b> <sub><sup><b>OR</b></sup></sub> <b>@_Invuska</b><br>
