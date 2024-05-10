@@ -28,7 +28,10 @@
     </tbody>
 </table>
 
-<h4 align="center" style="text-align: center"> You can stat-track my work on the <a href="https://dakilaledesma.github.io/">daxtracker.</a> (updates in realtime): </h4>
+---
+<h3 align="center" style="text-align: center"> Work Stat-tracking </h3>
+
+<p align="center" style="text-align: center"> You can stat-track my work on the <a href="https://dakilaledesma.github.io/">daxtracker.</a> (updates in realtime): </p>
 <img src="https://dakilaledesma.github.io/public/heatmap.png">
 
 ---
@@ -44,7 +47,7 @@
   <span style="display: inline-block; text-align: center;">
     <img width="175" src="media/dp.png"><br>
     <b>@Invuska<br>@_Invuska</b><br>
-    <sup>Everything Else</sup>
+    <sup>Everything Else</sup><br>
   </span>
 </div>
 
