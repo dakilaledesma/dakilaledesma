@@ -29,6 +29,7 @@
 </table>
 
 ---
+
 <h3 align="center" style="text-align: center"> Work Stat-tracking </h3>
 
 <p align="center" style="text-align: center"> You can stat-track my work on the <a href="https://dakilaledesma.github.io/">daxtracker.</a><br>
@@ -66,4 +67,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+---
+
+<h3 align="center" style="text-align: center"> Misc. </h3>
+
+- Check out a tool I created for Baldur's Gate 3 featured both on Yahoo News and PC Gamer. <b><sup><sub>[<a href="https://sg.news.yahoo.com/baldurs-gate-3-tool-discovers-173603338.html?">Yahoo News</a>] [<a href="https://www.pcgamer.com/baldurs-gate-3-tool-discovers-theres-around-1888-characters-with-dialogue-in-the-gamethough-justice-for-karlach-was-actually-the-main-reason-it-was-made/">PC Gamer</a>]</sup></sub></b>
+
 -->
