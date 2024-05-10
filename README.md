@@ -31,6 +31,23 @@
 <h4 align="center" style="text-align: center"> You can stat-track my work on the <a href="https://dakilaledesma.github.io/">daxtracker.</a> (updates in realtime): </h4>
 <img src="https://dakilaledesma.github.io/public/heatmap.png">
 
+---
+<h3 align="center" style="text-align: center"> Usernames & Profile Handles </h3>
+
+<div align="center">
+  <span style="display: inline-block; margin-right: 20px; text-align: center;">
+    <img width="175" src="media/self.png"><br>
+    <b>@dakilaledesma</b><br>
+    <sup>Personal/IRL</sup>
+      <br>
+  </span>
+  <span style="display: inline-block; text-align: center;">
+    <img width="175" src="media/dp.png"><br>
+    <b>@Invuska<br>@_Invuska</b><br>
+    <sup>Everything Else</sup>
+  </span>
+</div>
+
 <!--
 **dakilaledesma/dakilaledesma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
