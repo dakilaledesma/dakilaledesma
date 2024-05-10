@@ -31,7 +31,8 @@
 ---
 <h3 align="center" style="text-align: center"> Work Stat-tracking </h3>
 
-<p align="center" style="text-align: center"> You can stat-track my work on the <a href="https://dakilaledesma.github.io/">daxtracker.</a> (updates in realtime): </p>
+<p align="center" style="text-align: center"> You can stat-track my work on the <a href="https://dakilaledesma.github.io/">daxtracker.</a><br>
+    <sup>(this graph and the daxtracker. updates in realtime)</sup></p>
 <img src="https://dakilaledesma.github.io/public/heatmap.png">
 
 ---
@@ -41,13 +42,13 @@
   <span style="display: inline-block; margin-right: 20px; text-align: center;">
     <img width="175" src="media/self.png"><br>
     <b>@dakilaledesma</b><br>
-    <sup>Personal/IRL</sup>
+    <sup>Work, Instagram, and IRL-related accounts.</sup>
       <br>
   </span>
   <span style="display: inline-block; text-align: center;">
     <img width="175" src="media/dp.png"><br>
-    <b>@Invuska<br>@_Invuska</b><br>
-    <sup>Everything Else</sup><br>
+    <b>@Invuska</b> <sub><sup><b>OR</b></sup></sub> <b>@_Invuska</b><br>
+    <sup>Discord, Larian Forums, Reddit, and most other things.</sup><br>
   </span>
 </div>
 
