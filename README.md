@@ -49,7 +49,7 @@
     <br>
   <span style="display: inline-block; text-align: center;">
     <img width="175" src="media/dp.png"><br>
-    <b>@Invuska</b> <sub><sup><b>OR</b></sup></sub> <b>@_Invuska</b><br>
+    <b>@Invuska</b> <sub><sup><b>OR</b></sup></sub> <b>@Invuska_</b><br>
     <sup>Discord, Larian Forums, Reddit, and most other things.</sup><br>
   </span>
 </div>
