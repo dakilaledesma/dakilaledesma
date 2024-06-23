@@ -29,6 +29,13 @@
 </table>
 
 ---
+<h3 align="center" style="text-align: center"> Work Stat-tracking </h3>
+
+<p align="center" style="text-align: center"> You can stat-track my work on the <a href="https://dakilaledes.ma/">daxtracker.</a><br>
+    <sup>(this graph and the daxtracker. updates in realtime)</sup></p>
+<img src="https://dakilaledes.ma/public/heatmap.png">
+
+---
 <h3 align="center" style="text-align: center"> Usernames & Profile Handles </h3>
 
 <div align="center">
@@ -50,13 +57,6 @@
 
 
 <!--
----
-
-<h3 align="center" style="text-align: center"> Work Stat-tracking </h3>
-
-<p align="center" style="text-align: center"> You can stat-track my work on the <a href="https://dakilaledesma.github.io/">daxtracker.</a><br>
-    <sup>(this graph and the daxtracker. updates in realtime)</sup></p>
-<img src="https://dakilaledesma.github.io/public/heatmap.png">
 
 **dakilaledesma/dakilaledesma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
