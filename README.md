@@ -28,12 +28,6 @@
     </tbody>
 </table>
 
----
-<h3 align="center" style="text-align: center"> Work Stat-tracking </h3>
-
-<p align="center" style="text-align: center"> You can stat-track my work on the <a href="https://dakilaledes.ma/">daxtracker.</a><br>
-    <sup>(this graph and the daxtracker. updates in realtime)</sup></p>
-<img src="https://dakilaledes.ma/public/heatmap.png">
 
 ---
 <h3 align="center" style="text-align: center"> Usernames & Profile Handles </h3>
@@ -47,7 +41,7 @@
     <br>
     <br>
   <span style="display: inline-block; text-align: center;">
-    <img width="175" src="media/dp.png"><br>
+    <img width="175" src="media/jdp_n.png"><br>
     <b>@Invuska</b> <sub><sup><b>OR</b></sup></sub> <b>@Invuska_</b><br>
     <sup>Discord, Larian Forums, Reddit, and most other things.</sup><br>
   </span>
@@ -57,6 +51,14 @@
 
 
 <!--
+
+---
+<h3 align="center" style="text-align: center"> Work Stat-tracking </h3>
+
+<p align="center" style="text-align: center"> You can stat-track my work on the <a href="https://dakilaledes.ma/">daxtracker.</a><br>
+    <sup>(this graph and the daxtracker. updates in realtime)</sup></p>
+<img src="https://dakilaledes.ma/public/heatmap.png">
+
 
 **dakilaledesma/dakilaledesma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
